@@ -1,3 +1,4 @@
 # hello-world
 Test GIT
-aanpassing voor test
+aanpassing voor TEST (was lowercase)
+Extra regel toegevoegd aan Master voor merge
