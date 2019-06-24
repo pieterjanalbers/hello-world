@@ -6,4 +6,5 @@ Extra regel
 nlllog een regel
 Nog een tweede regel voor tweede commit
 En nog een regel voor de derde commit
-Nog een extra aanpassing voor vierde commit in feature branch
+Nog een extra aanpassing voor vierde commit in feature branch.
+Tekst added on 16:08
