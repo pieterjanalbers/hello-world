@@ -8,3 +8,4 @@ Nog een tweede regel voor tweede commit
 En nog een regel voor de derde commit
 Nog een extra aanpassing voor vierde commit in feature branch.
 Tekst added on 16:08
+Ook in repository regel toegevoegd om conflict te veroorzaken.
